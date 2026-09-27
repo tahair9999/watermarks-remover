@@ -16,10 +16,14 @@
 !/docs/**
 !/service/
 !/service/**
+!/skills/
+/skills/*
 !/skills/remove-ai-marks/
 !/skills/remove-ai-marks/**
 !/skills/clean-user-facing-text/
 !/skills/clean-user-facing-text/**
+!/skills/story-structure-audit/
+!/skills/story-structure-audit/**
 !/tests/
 !/tests/**
 !/.coderabbit.yaml
