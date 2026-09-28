@@ -4,6 +4,8 @@
 /*
 !/.claude-plugin/
 !/.claude-plugin/**
+!/.claude/
+!/.claude/**
 !/hooks/
 !/hooks/**
 !/.github/
